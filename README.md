@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashith Fernandes</h1>
+<h1 align="center">Hi 👋, I'm Preetham Pereira</h1>
 <h3 align="center">🚀 Android | Firebase | AI | Web | LLM Enthusiast</h3>
 
 <!-- ✍️ Typing Animation – Visible in Light & Dark Mode -->
@@ -10,11 +10,11 @@
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm *Ashith Fernandes* – a passionate 💻 Android & Web Developer from 🇮🇳 India.
+Hi, I'm *Preetham Pereira* – a passionate 💻 Cloud Security Engineer & Cybersecurity Professional from 🇮🇳 India.
 
 - 🎓 *Education:*
-  - 🏫 BCA @ Padua College of Commerce and Management
-  - 🎓 Pursuing M.Sc. Software Technology @ St Aloysius (Deemed to be University)
+  - 🎓 MCA @ Jain University, Bangalore - India
+  - 🏫 BBA @ Padua College of Commerce and Management, Mangalore - India
 
 - 📫 *Email:* [![Gmail Badge](https://img.shields.io/badge/Gmail-ashithfernandes319@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ashithfernandes319@gmail.com)
 
