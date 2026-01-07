@@ -68,15 +68,15 @@ I am committed to continuous learning, hands-on practice, and building real-worl
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4kops&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4kops&theme=default)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: **[Add your LinkedIn URL here]**
-- 📧 Email: **[your.email@example.com]**
+- 💼 LinkedIn: **www.linkedin.com/in/preetham-pereira**
+- 📧 Email: **mcapreetham@gmail.com**
 
 ---
 
