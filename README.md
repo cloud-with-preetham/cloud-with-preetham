@@ -18,11 +18,9 @@ Hi, I'm **Preetham Pereira** — a passionate 🔐 **Cybersecurity & Cloud Secur
 - ☁️ Exploring **AWS, Microsoft Azure, and Google Cloud Platform**
 - 🔍 Interested in **Blue Team, Cloud Security Architecture & Monitoring**
 
-- 📫 **Email:**  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-mcapreetham@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mcapreetham@gmail.com)
+- 📫 **Email:**  [![Gmail Badge](https://img.shields.io/badge/Gmail-mcapreetham@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mcapreetham@gmail.com)
 
-- 💼 **LinkedIn:**  
-  [![LinkedIn Badge](https://img.shields.io/badge/-Preetham%20Pereira-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-pereira)
+- 💼 **LinkedIn:**  [![LinkedIn Badge](https://img.shields.io/badge/-Preetham%20Pereira-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-pereira)
 
 - ✨ Fun Fact: I enjoy **breaking systems to understand how to protect them** 🛡️💻
 
