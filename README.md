@@ -1,26 +1,27 @@
 # Hi 👋, I'm Preetham Pereira
 
-🔐 **Cloud Security Enthusiast | DevOps Learner | Linux Engineer**  
-Focused on building secure, scalable cloud solutions through hands-on projects and continuous learning.
+⚙️ **DevOps Engineer (In Progress) | Linux | Cloud | Automation**  
+Focused on building reliable, automated, and scalable infrastructure using DevOps best practices.
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a motivated Cloud and Security learner with a strong foundation in Linux, automation, and DevOps tools.  
-My primary focus is on **Cloud Security**, **IAM**, and **secure infrastructure practices** across AWS and Azure.
+I am a DevOps-focused engineer with a strong foundation in Linux system administration, automation, and cloud platforms.  
+My primary interests include **CI/CD pipelines**, **containerization**, **infrastructure automation**, and **cloud-native DevOps workflows**.
 
-I believe in learning by doing, documenting my progress, and contributing wherever possible.
+I actively learn by building, breaking, and fixing real systems — documenting everything along the way.
 
 ---
 
-## 🔍 Areas of Focus
+## 🔍 DevOps Focus Areas
 
-- Cloud Security fundamentals (IAM, least privilege, access control)
-- Secure cloud infrastructure (AWS & Azure)
-- Linux system administration & hardening
-- Automation using Bash, Python, and PowerShell
-- DevOps tooling and CI/CD fundamentals
+- CI/CD pipelines and automation
+- Containerization and orchestration
+- Linux system administration & troubleshooting
+- Cloud infrastructure (AWS & Azure)
+- Infrastructure as Code fundamentals
+- Monitoring, logging, and reliability basics
 
 ---
 
@@ -36,7 +37,7 @@ I believe in learning by doing, documenting my progress, and contributing wherev
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git" />
 </p>
 
-### 🐧 Operating Systems & Security
+### 🐧 Operating Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
@@ -50,35 +51,39 @@ I believe in learning by doing, documenting my progress, and contributing wherev
 
 ## 🛠️ Current Work
 
-- 🔐 Building **cloud security mini-projects**
-- ☁️ Practicing hands-on labs in **AWS & Azure**
-- 🐧 Linux performance tuning, troubleshooting, and hardening
-- ⚙️ Writing automation scripts for real-world use cases
-- 📘 Documenting my learning journey publicly
+- ⚙️ Building **CI/CD pipelines** using Jenkins and Git
+- 🐳 Containerizing applications with Docker
+- ☸️ Learning Kubernetes fundamentals and deployments
+- ☁️ Practicing DevOps workflows on AWS & Azure
+- 🐧 Linux performance tuning and troubleshooting
+- 📘 Documenting DevOps labs and projects publicly
 
 ---
 
 ## 📘 Learning in Public
 
-I actively document my learning and experiments through:
+I believe strong DevOps engineers are built through **hands-on practice** and **clear documentation**.
+
+I share my learning through:
 - GitHub repositories and technical notes
-- Hands-on labs and assessments
+- DevOps labs and mini-projects
 - Real-world troubleshooting scenarios
 - Educational content on LinkedIn and YouTube
 
 🎯 **Career Goal:**  
-To become a skilled **Cloud Security / DevOps Engineer** with strong practical experience.
+To grow into a skilled **DevOps Engineer** capable of managing production-grade systems.
 
 ---
 
 ## 🚀 Featured Projects
 
-> *(Pinned repositories on my profile)*
+> *(Pinned repositories on my GitHub profile)*
 
-- 🔐 **Cloud Security Labs** – IAM, access control, and security fundamentals  
-- 🐧 **Linux Administration & Notes** – Commands, internals, and best practices  
-- ⚙️ **Automation Scripts** – Bash & Python automation  
-- ☁️ **AWS / Azure Mini Projects** – Practical cloud implementations  
+- ⚙️ **CI/CD Pipelines** – Jenkins pipelines and automation workflows  
+- 🐳 **Docker Projects** – Application containerization & best practices  
+- ☸️ **Kubernetes Labs** – Deployments, services, and scaling  
+- 🐧 **Linux Administration** – Commands, internals, and troubleshooting  
+- ☁️ **Cloud DevOps Labs** – AWS & Azure infrastructure practice  
 
 ---
 
@@ -103,11 +108,11 @@ To become a skilled **Cloud Security / DevOps Engineer** with strong practical e
 
 ## 📬 Open To
 
-- Cloud & DevOps collaborations  
-- Cloud Security learning groups  
-- Open-source contributions  
+- DevOps internships and junior roles  
+- Open-source DevOps projects  
+- CI/CD and automation collaborations  
 - Knowledge sharing and mentorship  
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to connect or collaborate.*
+⭐ *Thank you for visiting my profile. Let’s build reliable systems together.*
