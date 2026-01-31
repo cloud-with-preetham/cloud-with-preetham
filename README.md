@@ -1,27 +1,158 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building production-style CI/CD pipelines using Jenkins & GitHub Actions<br><br>Containerizing and deploying applications with Docker & Kubernetes<br><br>Writing Infrastructure as Code with Terraform on AWS & Azure<br><br>Implementing monitoring and observability using Prometheus & Grafana<br><br>Gradually integrating DevSecOps checks into CI/CD pipelines<br><br>👯 I’m looking to collaborate on<br><br>Open-source DevOps / Cloud / IaC projects<br><br>Kubernetes labs, Helm charts, or platform tooling<br><br>CI/CD pipeline optimization and automation projects<br><br>Monitoring, logging, and reliability engineering setups<br><br>🤝 I’m looking for help with<br><br>Real-world DevSecOps best practices in CI/CD pipelines<br><br>Secure secrets management and IAM design patterns<br><br>Kubernetes security and production hardening<br><br>Architecture reviews and feedback on my projects<br><br>🌱 I’m currently learning<br><br>DevSecOps fundamentals (shift-left security, security as code)<br><br>Kubernetes internals and cluster-level architecture<br><br>Cloud-native security concepts (IAM, network security, policies)<br><br>Advanced Terraform patterns and modular IaC design<br><br>💬 Ask me about<br><br>Linux system administration & troubleshooting<br><br>CI/CD pipelines (Jenkins, GitHub Actions)<br><br>Docker & Kubernetes basics<br><br>Terraform and Ansible workflows<br><br>Monitoring with Prometheus & Grafana<br><br>⚡ Fun fact<br><br>I learn best by breaking systems on purpose, fixing them, and documenting the entire journey so others don’t have to suffer the same way 😄
+# Hi 👋, I'm Preetham Pereira
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cloud-with-preetham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preetham-pereira) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cloud-with-preetham) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloud-with-preetham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcapreetham@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=code-with-preetham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=code-with-preetham&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-preetham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=code-with-preetham&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=code-with-preetham&limit=5&theme=dark&combine_all_yearly_contributions=true)
+⚙️ **DevOps & DevSecOps Engineer (In Progress) | Linux | Cloud | Automation**  
+Focused on building reliable, automated, secure, and scalable infrastructure using modern DevOps and DevSecOps practices.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=code-with-preetham&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 Professional Summary
+
+I am a DevOps-focused engineer with a strong foundation in Linux system administration, cloud platforms, automation, and CI/CD pipelines.  
+I am actively expanding into **DevSecOps**, with an emphasis on secure-by-default infrastructure, automation, and observability.
+
+I learn by building real systems, breaking them, fixing them, and documenting everything along the way.
+
+---
+
+## 🔍 Focus Areas
+
+- CI/CD pipelines and workflow automation  
+- Infrastructure as Code (IaC)  
+- Containerization and orchestration  
+- Cloud-native DevOps practices (AWS & Azure)  
+- Monitoring, logging, and system reliability  
+- DevSecOps fundamentals and security integration  
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+### ⚙️ DevOps, IaC & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git" />
+</p>
+
+### 📊 Monitoring & Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 🐧 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### 📜 Scripting & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,python,powershell" />
+</p>
+
+---
+
+## 🛠️ Current Work
+
+- ⚙️ Building and improving **CI/CD pipelines** using Jenkins and GitHub Actions  
+- 🐳 Containerizing applications with Docker  
+- ☸️ Deploying and managing workloads on Kubernetes  
+- ☁️ Practicing DevOps workflows on AWS & Azure  
+- 🏗️ Writing Infrastructure as Code using **Terraform**  
+- 🔧 Configuration management with **Ansible**  
+- 📊 Implementing monitoring using **Prometheus & Grafana**  
+- 🔐 Integrating basic **DevSecOps practices** into pipelines  
+- 📘 Documenting projects, labs, and learnings publicly  
+
+---
+
+## 🔐 DevSecOps Focus
+
+- Secure CI/CD pipeline design  
+- Secrets management best practices  
+- Least-privilege access and IAM awareness  
+- Static and dynamic security checks (foundational level)  
+- Security as code and shift-left mindset  
+
+---
+
+## 📐 System Design & Architecture
+
+I include **system design diagrams** in my projects to clearly demonstrate:
+- CI/CD workflow architecture  
+- Cloud infrastructure layouts  
+- Kubernetes deployment flows  
+- Monitoring and alerting pipelines  
+
+These diagrams help translate implementation into real-world system understanding.
+
+---
+
+## 📘 Learning in Public
+
+I believe strong engineers are built through consistent practice and documentation.
+
+I share my journey through:
+- GitHub repositories and technical notes  
+- DevOps & DevSecOps labs and mini-projects  
+- Real-world troubleshooting scenarios  
+- Educational content on LinkedIn and YouTube  
+
+🎯 **Career Goal:**  
+To grow into a well-rounded **DevOps / DevSecOps Engineer** capable of managing production-grade systems securely and reliably.
+
+---
+
+## 🚀 Featured Projects
+
+> *(Pinned repositories on my GitHub profile)*
+
+- ⚙️ **CI/CD Pipelines** – Jenkins pipelines with automation and security checks  
+- 🏗️ **Terraform Infrastructure** – Cloud infrastructure as code  
+- 🔧 **Ansible Automation** – Configuration management and provisioning  
+- ☸️ **Kubernetes Labs** – Deployments, services, scaling, and monitoring  
+- 📊 **Monitoring Stack** – Prometheus & Grafana implementations  
+- 🐧 **Linux Administration** – Internals, performance tuning, and troubleshooting  
+
+---
+
+## 📜 Certifications
+
+> *(To be added as earned)*
+
+- ⏳ AWS Certified Cloud Practitioner  
+- ⏳ AWS Certified Solution Architect 
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/H4KOPS" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+<a href="https://linkedin.com/in/preetham-pereira" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/cloud_with_preetham" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="https://youtube.com/@cloud_with_preetham" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 📬 Open To
+
+- DevOps & DevSecOps internships / junior roles  
+- Open-source DevOps & infrastructure projects  
+- CI/CD, IaC, and automation collaborations  
+- Knowledge sharing and mentorship  
+
+---
+
+⭐ *Thank you for visiting my profile. Let’s build secure, reliable systems together.*
