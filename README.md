@@ -56,7 +56,7 @@ I learn by building real systems, breaking them, fixing them, and documenting ev
 
 ## 🛠️ Current Work
 
-- ⚙️ Building and improving **CI/CD pipelines** using Jenkins and Git  
+- ⚙️ Building and improving **CI/CD pipelines** using Jenkins and GitHub Actions  
 - 🐳 Containerizing applications with Docker  
 - ☸️ Deploying and managing workloads on Kubernetes  
 - ☁️ Practicing DevOps workflows on AWS & Azure  
@@ -123,8 +123,7 @@ To grow into a well-rounded **DevOps / DevSecOps Engineer** capable of managing 
 > *(To be added as earned)*
 
 - ⏳ AWS Certified Cloud Practitioner  
-- ⏳ Azure Fundamentals  
-- ⏳ DevOps / DevSecOps Certifications  
+- ⏳ AWS Certified Solution Architect 
 
 ---
 
