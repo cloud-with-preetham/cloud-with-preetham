@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Preetham%20Pereira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Native+Architect+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Expert+%F0%9F%94%A7;Infrastructure+as+Code+Advocate;Kubernetes+%26+Container+Specialist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Native+Architect;CI%2FCD+Pipeline+Expert;Infrastructure+as+Code+Advocate;Kubernetes+%26+Container+Specialist" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,14 +13,14 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AWFGj3vh)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cloud-with-preetham&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/cloud-with-preetham?style=for-the-badge&color=00D9FF)
-![GitHub Stars](https://img.shields.io/github/stars/cloud-with-preetham?style=for-the-badge&color=00D9FF)
+![GitHub Followers](https://img.shields.io/github/followers/cloud-with-preetham?style=for-the-badge&color=00D9FF&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/cloud-with-preetham?style=for-the-badge&color=00D9FF&logo=github)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
 
 <img align="right" alt="DevOps" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -38,11 +38,11 @@ current_challenge: "#90DaysOfDevOps"
 motto: "Automate Everything, Monitor Everything"
 ```
 
-🚀 **DevOps Engineer** passionate about transforming infrastructure through automation and cloud-native technologies.
+**DevOps Engineer** passionate about transforming infrastructure through automation and cloud-native technologies.
 
-💡 Specializing in building **resilient CI/CD pipelines**, orchestrating **containerized applications**, and implementing **Infrastructure as Code** to deliver scalable, secure, and efficient solutions.
+Specializing in building **resilient CI/CD pipelines**, orchestrating **containerized applications**, and implementing **Infrastructure as Code** to deliver scalable, secure, and efficient solutions.
 
-### 🎯 What I'm Up To
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="25" /> What I'm Up To
 
 - 🔥 Completing **#90DaysOfDevOps** challenge
 - 🏗️ Architecting production-grade Kubernetes clusters
@@ -54,7 +54,7 @@ motto: "Automate Everything, Monitor Everything"
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Arsenal
 
 <div align="center">
 
@@ -64,7 +64,7 @@ motto: "Automate Everything, Monitor Everything"
 </div>
 
 <details>
-<summary><b>🔧 Complete Technology Stack</b></summary>
+<summary><b>📦 Complete Technology Stack</b></summary>
 <br/>
 
 <table>
@@ -159,24 +159,24 @@ motto: "Automate Everything, Monitor Everything"
 
 ---
 
-## 🏆 Key Achievements & Impact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /> Key Achievements & Impact
 
 <div align="center">
 
 | 🎯 Achievement | 📈 Impact | 🛠️ Technologies |
 |:--------------|:----------|:----------------|
-| **Automated CI/CD Pipeline** | ⚡ Reduced deployment time by **60%** | Jenkins, GitHub Actions, Docker |
-| **Infrastructure as Code** | 🏗️ Managed **15+ cloud resources** efficiently | Terraform, Ansible, AWS |
-| **Container Orchestration** | 🐳 Deployed **10+ microservices** at scale | Kubernetes, Helm, Docker |
-| **Monitoring & Observability** | 📊 Achieved **99.9% uptime** | Prometheus, Grafana, ELK |
-| **Cloud Certification** | 🎓 **Google Cloud Professional** certified | GCP |
-| **Cost Optimization** | 💰 Reduced cloud costs by **40%** | AWS, Resource Tagging |
+| **Automated CI/CD Pipeline** | Reduced deployment time by **60%** | Jenkins, GitHub Actions, Docker |
+| **Infrastructure as Code** | Managed **15+ cloud resources** efficiently | Terraform, Ansible, AWS |
+| **Container Orchestration** | Deployed **10+ microservices** at scale | Kubernetes, Helm, Docker |
+| **Monitoring & Observability** | Achieved **99.9% uptime** | Prometheus, Grafana, ELK |
+| **Cloud Certification** | **Google Cloud Professional** certified | GCP |
+| **Cost Optimization** | Reduced cloud costs by **40%** | AWS, Resource Tagging |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cloud-with-preetham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
@@ -194,7 +194,7 @@ motto: "Automate Everything, Monitor Everything"
 
 ---
 
-## 🚀 Featured DevOps Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> Featured DevOps Projects
 
 <div align="center">
 
@@ -257,17 +257,17 @@ Collection of production-ready automation scripts
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal" width="35" /> GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=cloud-with-preetham&theme=tokyonight&no-frame=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=cloud-with-preetham&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15)
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts & Content
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" /> Latest Blog Posts & Content
 
 <div align="center">
 
@@ -286,7 +286,7 @@ Collection of production-ready automation scripts
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -302,7 +302,7 @@ Collection of production-ready automation scripts
 
 ---
 
-### 💭 DevOps Quote of the Day
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Quote" width="30" /> DevOps Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Automate%20everything,%20monitor%20everything,%20improve%20everything.&author=DevOps%20Philosophy)
 
